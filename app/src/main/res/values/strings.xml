@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lade-Verlauf</string>
+    <string name="hint_word">EnergieWerte...</string>
+    <string name="button_save">Speichern</string>
+    <string name="empty_not_saved">Wird nicht gespeichert, da leer.</string>
+    <string name="add_word">Hinzufügen</string>
+</resources>
